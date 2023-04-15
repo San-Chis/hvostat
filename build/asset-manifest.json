@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8c0763b.css",
+    "main.js": "/static/js/main.23c1fc6d.js",
+    "static/media/1288.png": "/static/media/1288.c34d9cc703b9ccc10a73.png",
+    "static/media/shelter_bg.png": "/static/media/shelter_bg.7756dee488f46d9ca6f5.png",
+    "static/media/1289.png": "/static/media/1289.3ebeec1e5b87f2ef4e34.png",
+    "static/media/fund_block.png": "/static/media/fund_block.9644853fecd9963f13ec.png",
+    "static/media/card_slide_haus.png": "/static/media/card_slide_haus.f3cc245620dff6097f31.png",
+    "static/media/card_slide_dogs.png": "/static/media/card_slide_dogs.46d82ee8a7e026060e96.png",
+    "static/media/1020.png": "/static/media/1020.6a1ec7748b5344792aae.png",
+    "static/media/1021.png": "/static/media/1021.c9005b6acc347bc103c0.png",
+    "static/media/card_lucky_richard.png": "/static/media/card_lucky_richard.17a0fa8f89507d2a9344.png",
+    "static/media/1022.png": "/static/media/1022.621c83e9fe3b7b37a104.png",
+    "static/media/card_slide_food.png": "/static/media/card_slide_food.8ae16986da276d410c6e.png",
+    "static/media/card_lucky_nata.png": "/static/media/card_lucky_nata.707a9a6f437df9cad48d.png",
+    "static/media/oddval-semibold.ttf": "/static/media/oddval-semibold.d96c47b130f2db1caf47.ttf",
+    "static/media/1023.png": "/static/media/1023.ef1d52b100af42d7269f.png",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/help_three.png": "/static/media/help_three.dd60172720ae62b4ad37.png",
+    "static/media/help_one.png": "/static/media/help_one.eb8cfc7bf84f6d6075ac.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.d0ca82d8ca07ba209aee.ttf",
+    "static/media/help_two.png": "/static/media/help_two.23cf5806a9c645f07ede.png",
+    "static/media/footer_instagram.svg": "/static/media/footer_instagram.95f6be4478e262a7904ef7b27a8d1444.svg",
+    "static/media/instagram.svg": "/static/media/instagram.f3a6d81e5219b98e40671925e6dbddbc.svg",
+    "static/media/footer_telegram.svg": "/static/media/footer_telegram.21e63c461cb8192448f4e39e426ebf47.svg",
+    "static/media/telegram.svg": "/static/media/telegram.86c77e56f43ad8bbd822fe84c2681b07.svg",
+    "static/media/cat.svg": "/static/media/cat.10fe628fbc1cc278cc72c740b2a43fb2.svg",
+    "static/media/footer_tiktok.svg": "/static/media/footer_tiktok.17a0c6f0d7c7a15f4fffcdddd4b366cc.svg",
+    "static/media/tik_tok.svg": "/static/media/tik_tok.f289b661df7c7b2974b71eff0308aeeb.svg",
+    "static/media/logo.svg": "/static/media/logo.6f25dae982d8689d817105dae1eceada.svg",
+    "index.html": "/index.html",
+    "static/media/slider_arrow_left.svg": "/static/media/slider_arrow_left.4578703ba0eb030adbc5ab5de640b260.svg",
+    "static/media/slider_arrow_right.svg": "/static/media/slider_arrow_right.3a67235b1472c8b81a9fcab1797dc0dd.svg",
+    "main.c8c0763b.css.map": "/static/css/main.c8c0763b.css.map",
+    "main.23c1fc6d.js.map": "/static/js/main.23c1fc6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c0763b.css",
+    "static/js/main.23c1fc6d.js"
+  ]
+}
